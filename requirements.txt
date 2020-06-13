@@ -1,0 +1,6 @@
+sqlalchemy
+sqlobject
+pynput
+
+pylint
+flake8
